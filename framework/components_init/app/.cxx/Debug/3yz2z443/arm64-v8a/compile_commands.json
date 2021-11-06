@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/edge/Documents/Programming/thesis/thesis_code/componentsInitializer/app/.cxx/Debug/3yz2z443/arm64-v8a",
+  "command": "/home/edge/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --gcc-toolchain=/home/edge/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/edge/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dinitializer_EXPORTS -I/home/edge/Documents/Programming/thesis/thesis_code/componentsInitializer/app/src/main/cpp/include -I/home/edge/Documents/Programming/thesis/thesis_code/componentsInitializer/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/initializer.dir/launcher.c.o   -c /home/edge/Documents/Programming/thesis/thesis_code/componentsInitializer/app/src/main/cpp/launcher.c",
+  "file": "/home/edge/Documents/Programming/thesis/thesis_code/componentsInitializer/app/src/main/cpp/launcher.c"
+}
+]

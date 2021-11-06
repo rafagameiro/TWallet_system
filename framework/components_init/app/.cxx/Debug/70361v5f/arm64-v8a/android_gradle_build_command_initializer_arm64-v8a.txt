@@ -1,0 +1,7 @@
+Executable : /home/edge/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/edge/Documents/componentsInitializer/app/.cxx/Debug/70361v5f/arm64-v8a
+initializer
+jvmArgs : 
+

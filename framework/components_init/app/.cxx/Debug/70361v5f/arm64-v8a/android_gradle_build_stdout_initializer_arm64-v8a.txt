@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/edge/Documents/componentsInitializer/app/.cxx/Debug/70361v5f/arm64-v8a'
+ninja: no work to do.

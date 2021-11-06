@@ -1,0 +1,5 @@
+# ninja log v5
+0	151	1630277670	CMakeFiles/initializer.dir/launcher.c.o	e7c0e3f1140cc022
+151	184	1630277670	/home/edge/Documents/componentsInitializer/app/build/intermediates/cxx/Debug/70361v5f/obj/arm64-v8a/libinitializer.so	8fcd3b15afb8e08c
+2	99	1630338688	CMakeFiles/initializer.dir/launcher.c.o	e7c0e3f1140cc022
+99	152	1630338688	/home/edge/Documents/componentsInitializer/app/build/intermediates/cxx/Debug/70361v5f/obj/arm64-v8a/libinitializer.so	8fcd3b15afb8e08c

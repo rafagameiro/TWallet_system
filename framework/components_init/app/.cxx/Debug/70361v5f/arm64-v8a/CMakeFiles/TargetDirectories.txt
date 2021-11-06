@@ -1,0 +1,3 @@
+/home/edge/Documents/componentsInitializer/app/.cxx/Debug/70361v5f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/edge/Documents/componentsInitializer/app/.cxx/Debug/70361v5f/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/edge/Documents/componentsInitializer/app/.cxx/Debug/70361v5f/arm64-v8a/CMakeFiles/initializer.dir
