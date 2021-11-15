@@ -6,7 +6,7 @@ The purpose of this repository is to provide the code for the solution developed
 
 This repository is organized as the following:
 
-- Framework: contains the files that can be added to the mobile applicationsso that they can make use of the TWallet System.
+- Framework: contains the files that can be added to the mobile applications so that they can make use of the TWallet System.
 - Components: contains the Trusted Applications that will run inside the ARM TrustZone and provide additional security and trustability guarantees to the applications that make use of their functionalities.
 
 ## Pre-requisites
@@ -32,14 +32,14 @@ To add the Secure Components executables to your system, you can follow two proc
 ```
 adb root
 adb remount
-adb push [name-of-apk].ta /vendor/optee-armtz/
+adb push [name-of-file].ta /vendor/lib/optee_armtz/
 adb reboot
 ```
 
 ### TWallet Framework
 
 To build the TWallet Framework:
- - Add files inside the cpp folder (not the folder itself) to your project app/app/src/cpp
+ - Add files inside the cpp folder (not the folder itself) to your project `app/app/src/cpp`
  - Add the files inside the Twallet folder into your project solution as a package
 
 After that you can use the functions made available by the TWallet Framework.
